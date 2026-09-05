@@ -1,10 +1,10 @@
-🚀 Decode Labs Internship Projects
+# 🚀 Decode Labs Internship Projects
 
 A collection of Artificial Intelligence and Generative AI projects developed as part of my internship at Decode Labs.
 
 This repository contains practical AI applications built using Python, Generative AI, Large Language Models, Natural Language Processing, Cloud APIs, and Multimodal AI.
 
-📌 Repository Overview
+## 📌 Repository Overview
 
 Task
 
@@ -12,19 +12,19 @@ Project
 
 Description
 
-🤖 Task 1
+## 🤖 Task 1
 
 AI ChatBot
 
 An AI-powered chatbot for conversational interactions
 
-🎭 Task 2
+## 🎭 Task 2
 
 Tone Transformer
 
 An AI application that transforms text into different tones and writing styles
 
-🖼️ Task 3
+## 🖼️ Task 3
 
 Image Generator
 
@@ -57,7 +57,7 @@ Decode_Labs
 
 Each project is independent and can be installed and run separately.
 
-🤖 Task 1: AI ChatBot
+## 🤖 Task 1: AI ChatBot
 
 An AI-powered chatbot application designed to interact with users and generate intelligent responses.
 
@@ -77,7 +77,7 @@ An AI-powered chatbot application designed to interact with users and generate i
 
 Refer to the project's individual README for setup and usage instructions.
 
-🎭 Task 2: Tone Transformer
+## 🎭 Task 2: Tone Transformer
 
 Tone Transformer is an AI-powered application that transforms user-provided text into different tones and writing styles.
 
@@ -99,7 +99,7 @@ Tone Transformer is an AI-powered application that transforms user-provided text
 
 Refer to the project's individual README for detailed setup and usage instructions.
 
-🖼️ Task 3: Multimodal Image Generation Studio
+## 🖼️ Task 3: Multimodal Image Generation Studio
 
 Multimodal Image Generation Studio is an AI-powered text-to-image generation application.
 
