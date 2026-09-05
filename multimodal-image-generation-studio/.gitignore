@@ -1,0 +1,28 @@
+# Environment and secrets
+.env
+.env.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Outputs
+outputs/generated_images/*
+!outputs/generated_images/.gitkeep
+outputs/metadata/*
+!outputs/metadata/.gitkeep
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

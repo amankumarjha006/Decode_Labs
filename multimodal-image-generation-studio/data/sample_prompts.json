@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cyberpunk City",
+    "prompt": "A sprawling futuristic cyberpunk metropolis at night with towering neon skyscrapers, rain-slicked reflective asphalt, flying hover-cars, holographic advertisements, cinematic lighting, 8k resolution",
+    "style": "cyberpunk",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "title": "Fantasy Castle",
+    "prompt": "An ancient enchanted crystalline castle perched atop a misty floating mountain island, cascading glowing waterfalls, ethereal twilight atmosphere, mystical flora, hyper-detailed digital art",
+    "style": "fantasy",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "title": "Anime Character",
+    "prompt": "A charismatic anime hero with vibrant silver hair and glowing cerulean eyes, wearing ornate mechanical cyber-samurai armor, dramatic cherry blossom petals swirling in the wind, studio anime key visual",
+    "style": "anime",
+    "aspect_ratio": "3:4"
+  },
+  {
+    "title": "Product Advertisement",
+    "prompt": "Luxury minimalist perfume glass bottle standing on polished dark marble, subtle water ripples, elegant soft studio lighting, delicate gold foil accents, high-end commercial product photography",
+    "style": "photorealistic",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "title": "Nature Landscape",
+    "prompt": "Majestic alpine glacial valley during sunrise, mirror-like emerald lake reflecting snow-capped jagged peaks, golden morning sunbeams cutting through pine forest mist, ultra-realistic landscape",
+    "style": "photorealistic",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "title": "Space Scene",
+    "prompt": "A colossal cosmic nebula with vibrant violet and gold stellar dust clouds, a ringed habitable exoplanet rising over the horizon, deep space exploration vessel with glowing ion thrusters",
+    "style": "cinematic",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "title": "Minimalist Architecture",
+    "prompt": "Contemporary brutalist concrete villa seamlessly integrated into a serene desert cliff, cantilevered glass infinity pool, clean geometric lines, warm sunset shadows, architectural digest feature",
+    "style": "minimalist",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "title": "Futuristic Robot",
+    "prompt": "An advanced humanoid android android artisan carving a wooden violin, intricate visible internal gears and fiber-optic pathways, warm workshop lighting, hyper-detailed 3D render",
+    "style": "three_d_render",
+    "aspect_ratio": "1:1"
+  }
+]
